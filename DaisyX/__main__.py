@@ -67,29 +67,31 @@ Halo Pantek, Aku [Reevas](https://telegra.ph/file/9238385798316f737a0eb.jpg)
 
 Aku Bisa Membantu Mu Untuk Mengatur Group Membasmi Orang-Orang Tolol.
 
-✪ Baca Dulu Info Biar Paham Pantek ✪ 
+✪Baca Dulu Info Biar Paham Pantek✪ 
 """
 
 buttons = [
     [
-        InlineKeyboardButton(text="👹 INFO 👹", callback_data="aboutmanu_"),
-    ],
-    [
-        InlineKeyboardButton(text="Mol",url="https://t.me/Betterthaanhecan"),
+        InlineKeyboardButton(text="🚀 INFO 🚀", callback_data="aboutmanu_"),    
     ],
     [
         InlineKeyboardButton(text="📞 Help & Commands 📞", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="💫 Add Daisy to your group 💫", url="t.me/daisyXBot?startgroup=true"
+            text="Add Reevas Ke Group🖕", url="t.me/daisyXBot?startgroup=true"
+        ),
+    ],
+    [
+        InlineKeyboardButton(
+            text="Mol", url="t.me/Betterthaanhecan"
         ),
     ],
 ]
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [🖕](https://telegra.ph/file/9238385798316f737a0eb.jpg)
+*Daftar Command :* [🖕](https://telegra.ph/file/9238385798316f737a0eb.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
