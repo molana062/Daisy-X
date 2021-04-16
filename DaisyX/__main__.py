@@ -63,9 +63,9 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Halo Pantek, Aku [Reevas](https://telegra.ph/file/9238385798316f737a0eb.jpg)
+Halo Pantek, Aku [Guard Fckg](https://telegra.ph/file/86492475a12d1a1af5d58.jpg)
 
-Aku Bisa Membantu Mu Untuk Mengatur Group Membasmi Orang-Orang Tolol.
+Aku Official Bot Group Fvckg Partner untuk membasmi Orang-Orang Tolol.
 
 ✪Baca Dulu Info Biar Paham Pantek✪ 
 """
@@ -79,7 +79,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="Add Reevas Ke Group🖕", url="t.me/daisyXBot?startgroup=true"
+            text="Add Reevas Ke Group🖕", url="t.me/fvcking13bot?startgroup=true"
         ),
     ],
     [
