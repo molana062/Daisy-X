@@ -35,7 +35,7 @@ def wall(update: Update, context: CallbackContext):
                 msg.reply_text("No results found! Refine your search.")
                 return
             else:
-                index = randint(0, len(wallpapers) - 1)  # Choose random index
+                index = randint(0, len(wallpapers) - 5)  # Choose random index
                 wallpaper = wallpapers[index]
                 wallpaper = wallpaper.get("url_image")
                 wallpaper = wallpaper.replace("\\", "")
