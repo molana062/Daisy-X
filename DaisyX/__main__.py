@@ -63,9 +63,9 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Halo Pantek, Aku [Guard Fckg](https://telegra.ph/file/86492475a12d1a1af5d58.jpg)
+Halo Pantek, Aku [Chapter](https://telegra.ph/file/f95e99d4d28c438d30827.jpg)
 
-Aku Official Bot Group Fvckg Partner untuk membasmi Orang-Orang Tolol.
+Aku Official Bot LastChapter  Partner untuk membasmi Orang-Orang Tolol.
 
 ✪Baca Dulu Info Biar Paham Pantek✪ 
 """
@@ -84,7 +84,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="Mol", url="t.me/Betterthaanhecan"
+            text="Skid'S", url="t.me/skiddd23"
         ),
     ],
 ]
